@@ -14,4 +14,4 @@ Enjoy staying informed about the weather with this straightforward Weather App!
 
 ## MIT License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://opensource.org/license/mit/)https://opensource.org/license/mit/) file for details.
